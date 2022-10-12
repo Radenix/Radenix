@@ -1,12 +1,7 @@
-
-<!--  https://ritik307.github.io/portfolio/  -->
 <p align="center">
  
 </p align="center">
 <img src="https://github.com/Radenix/Radenix/blob/main/header_.png" />
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -30,21 +25,15 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/whoisradenix/"/>
+<a href="https://www.instagram.com/whoisradenix">
+  <img src="https://img.shields.io/badge/-whoisradenix-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/whoisradenix/"/>
+</a>
 <a href="mailto: nihadqasimov06@gmail.com">
- <img src="https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihadqasimov06@gmail.com"/>
+ <img src="https://img.shields.io/badge/-nihadqasimov06-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihadqasimov06@gmail.com"/>
 </a>
  <a href="https://twitter.com/Radenixx">
- <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Radenixx"/>
+ <img src="https://img.shields.io/badge/-Radenixx-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Radenixx"/>
 </a>
-</p>
-
-
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/Radenix/Radenix/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
