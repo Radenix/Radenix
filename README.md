@@ -7,7 +7,8 @@
 
 <p align="center">
  <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white"/>
- <img src="https://img.shields.io/badge/Flask-00599C?style=flat-square&logo=flask"/>
+ <img src="https://img.shields.io/badge/Flask-00599C?style=flat-square&logo=flask&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Django-00599C?style=flat-square&logo=django&logoColor=black"/>"/>
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=oracle"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
