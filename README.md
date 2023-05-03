@@ -1,7 +1,3 @@
-<p align="center">
- 
-</p align="center">
-<img src="https://github.com/Radenix/Radenix/blob/main/header_.png" />
 
 <h2 align="center">Technology Stack</h2>
 
