@@ -25,8 +25,8 @@
 <h2 align="center">Reach me out on</h2>
 
 <p align="center">
-<a href="https://www.instagram.com/whoisradenix">
-  <img src="https://img.shields.io/badge/-whoisradenix-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/whoisradenix/"/>
+<a href="https://www.instagram.com/theradenix">
+  <img src="https://img.shields.io/badge/-theradenix-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/whoisradenix/"/>
 </a>
 <a href="mailto: nihadqasimov06@gmail.com">
  <img src="https://img.shields.io/badge/-nihadqasimov06-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihadqasimov06@gmail.com"/>
