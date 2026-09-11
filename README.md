@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Nihad
 
-I'm a Frontend Developer with a strong focus on building web applications using Next.js and other modern technologies. Here’s a quick overview of my tech stack:
+I'm a Full-Stack / Frontend focused Developer with a strong focus on building web applications using Next.js and other modern technologies. Here’s a quick overview of my tech stack:
 
 #### 🔧 Technologies & Tools
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, React Native
-- **Backend**: Node.js, Flask, Django
+- **Backend**: Node.js, Express.js, Flask, Django
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Tools**: Git, Figma, Webpack, Postman
 
